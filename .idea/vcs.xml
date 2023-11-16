@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Command-Line_Arguments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Constructor_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exception_handling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GUI_MouseMotionListener" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GUI_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Money-changing_Machine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Object_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Score_AVR_Calc_apply_object" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StringTokenizer_Pracitce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Vector_Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Vector_Practice2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/collection_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/if-elseIf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loop_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/makeArray" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/print_star" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/switch_practice" vcs="Git" />
+  </component>
+</project>
